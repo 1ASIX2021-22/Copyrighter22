@@ -203,7 +203,7 @@ Obrirem el <b>PHPStorm</b> i crearem un nou projecte.
 </p>
 
 <p align="center">
-  Com podem veure, ja tindrem accés al Mysql i a la base de dades que habiem creat.
+  Com podem veure, ja tindrem accés al MySQL hi ha la base de dades que habiem creat.
 </p>
 
 <p align="center">
